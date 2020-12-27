@@ -37,7 +37,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "node server.js"
+    "start": "nodemon server.js",
+    "lint": "eslint . --fix"
   },
   "repository": {
     "type": "git",
