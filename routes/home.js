@@ -5,8 +5,8 @@ const router = express.Router();
 
 
 // Controllers
-const hardwareCtrl = require('../controllers/hardware');
+const authCtrl = require('../controllers/auth');
 
 // admin routes
-router.get('/', hardwareCtrl.home);
+router.get('/', authCtrl.home);
 module.exports = router;

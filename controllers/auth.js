@@ -69,7 +69,7 @@ exports.login = async (req, res) => {
     action,
   };
   await saveLog(logData);
-    
+
   // mail
   const link = `${process.env.ENTERPRISELINK}`;
   const to = user.email;
@@ -86,5 +86,13 @@ exports.login = async (req, res) => {
   const token = jwt.sign({ _id: user.id, type: user.type, company: user.company }, TOKENSECRET);
   res.status(200).json({
     status: 'success', message: 'Logged in sucessfully.', token, user: updatedUser,
+  });
+};
+
+// home
+exports.home = async (req, res, next) => {
+  res.status(200).json({
+    status: 'success',
+    message: 'You are here',
   });
 };
