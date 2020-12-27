@@ -40,3 +40,6 @@ Or [download as a ZIP](https://github.com/weezykon/Nodejs-Express-Mongodb-templa
 npm install
 ```
 
+## Footnotes
+
+- Created by [Weezykon](https://twitter.com/weezykon)
