@@ -33,3 +33,10 @@ cd Nodejs-Express-Mongodb-template
 ```
 
 Or [download as a ZIP](https://github.com/weezykon/Nodejs-Express-Mongodb-template/archive/main.zip).
+
+#### 3. Install packages
+
+```
+npm install
+```
+
