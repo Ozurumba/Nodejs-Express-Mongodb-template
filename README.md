@@ -15,3 +15,5 @@ Node.js, see the [Node.js Website][].
 
 The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 [OpenJS Foundation][] provides support for the project.
+
+This a Node.js, Express and Mongo DB boilerplate which is a template and very easy to use.
