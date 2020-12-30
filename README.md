@@ -40,7 +40,7 @@ Or [download as a ZIP](https://github.com/weezykon/Nodejs-Express-Mongodb-templa
 npm install
 ```
 
-#### Get to know your dependencies
+#### Dependencies used
 - [@hapi/joi](https://www.npmjs.com/package/@hapi/joi)
 Joi is part of the hapi ecosystem and was designed to work seamlessly with the hapi web framework and its other components (but works great on its own or with other frameworks).
 
