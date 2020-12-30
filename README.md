@@ -40,6 +40,9 @@ Or [download as a ZIP](https://github.com/weezykon/Nodejs-Express-Mongodb-templa
 npm install
 ```
 
+#### Get to know your dependencies
+[@hapi/joi](https://www.npmjs.com/package/@hapi/joi)
+
 ## Footnotes
 
 - Created by [Weezykon](https://twitter.com/weezykon)
