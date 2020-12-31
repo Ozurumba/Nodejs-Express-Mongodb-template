@@ -110,7 +110,7 @@ Attach virtuals to the results of mongoose queries when using .lean()
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
-- [Swagger UI Express]()
+- [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express)
 This module allows you to serve auto-generated [swagger-ui](https://swagger.io/tools/swagger-ui/) generated API docs from express, based on a swagger.json file. The result is living documentation for your API hosted from your API server via a route.
 
 - [Url](https://www.npmjs.com/package/url)
